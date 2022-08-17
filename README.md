@@ -9,9 +9,9 @@ It is a matrix question.Your problem is create a spiral matrix. this matrix atti
 2-)This matrix must work only odd and positive integer.(positive is optional) <br>
 3-)this program take a user input number only. <br>
 4-)this program exit key kombination is only ctrl+d. <br>
-5-)this program run always.
+5-)this program run always.<br>
 
-Describes:
+Describes:<br>
 1-)Spiral matrix:The Spiral Matrix problem takes a 2-Dimensional array of N-rows and M-columns as an input, and prints the elements of this matrix in spiral order. The spiral begins at the top left corner of the input matrix, and prints the elements it encounters, while looping towards the center of this matrix, in a clockwise manner.
 
 ![image](https://user-images.githubusercontent.com/97265601/185188381-6b6982d5-9cae-4152-995a-90c51589921a.png)
