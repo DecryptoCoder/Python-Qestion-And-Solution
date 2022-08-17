@@ -5,7 +5,7 @@ okey lets start.
 
 # question 1:
 It is a matrix question.Your problem is create a spiral matrix. this matrix attiributes are write below:
-1-)This matrix maximum number must be equal any integer sqare.
+1-)This matrix maximum number must be equal any integer square.
 2-)This matrix must work only odd and positive integer.(positive is optional)
 3-)this program take a user input number only.
 4-)this program exit key kombination is only ctrl+d.
