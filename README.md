@@ -17,7 +17,7 @@ Describes:<br>
 ![image](https://user-images.githubusercontent.com/97265601/185188381-6b6982d5-9cae-4152-995a-90c51589921a.png)
 <br>
 
-#Question 2: <br>
+# Question 2: <br>
 Write a Python program to find the smallest multiple of the m number of random n numbers in list.<br>
 easy mod:All number positive normal mod:All integer in Domain hard mode:Domain contains imaginary number very hard mode:Find and .....(kanıtlamak) fastest algorithm.<br>
 for example n=4 m=2<br>
